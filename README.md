@@ -3,7 +3,7 @@
 I take hardware from RTL to board. Not simulation. Actual silicon.
 
 **RTL & Design**  
-`Verilog` `SystemVerilog` `AXI4-Lite/Stream` `FSM` `CDC` `Timing Closure`
+`Verilog` `SystemVerilog` `FSM` `CDC` `Timing Closure`
 
 **Tools**  
 `Vivado` `ModelSim` `Yosys` `nextpnr` `OpenSTA` `Cadence Virtuoso` `QNX Momentics`
