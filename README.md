@@ -1,12 +1,13 @@
 # Charan Yakasiri
-## FPGA · RTL · Firmware
+## FPGA · RTL · Firmware . RTL2GDSII
 I take hardware from RTL to board. Not simulation. Actual silicon.
 
 **RTL & Design**  
 `Verilog` `SystemVerilog` `FSM` `CDC` `Timing Closure`
 
 **Tools**  
-`Vivado` `ModelSim` `Yosys` `nextpnr` `OpenSTA` `Cadence Virtuoso` `QNX Momentics`
+`Vivado` `ModelSim` `Yosys` `nextpnr` `OpenSTA` `QNX Momentics`
+ `Cadence Innovus` `Cadence Genus` `Cadence NcLaunch` `Cadence Virtuoso` 
 
 **Firmware & Scripting**  
 `Bare-metal C` `Python` `TCL` `Git` `Linux`
