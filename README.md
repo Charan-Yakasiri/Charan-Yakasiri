@@ -7,7 +7,7 @@ I take hardware from RTL to board. Not simulation. Actual silicon.
 
 **Tools**  
 `Vivado` `ModelSim` `Yosys` `nextpnr` `OpenSTA` `QNX Momentics`
- `Cadence Innovus` `Cadence Genus` `Cadence NcLaunch`            `Cadence Virtuoso` 
+ `Cadence Innovus` `Cadence Genus` `Cadence NcLaunch`
 
 **Firmware & Scripting**  
 `Bare-metal C` `Python` `TCL` `Git` `Linux`
