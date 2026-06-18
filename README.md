@@ -16,7 +16,7 @@ I take hardware from RTL to board. Not simulation. Actual silicon.
 `PYNQ-Z2` `Spartan-7` `iCE40 (VSDSquadron FM)` `Vicharak Shrike Lite`
 
 ## Achievements
-DVCon Round 2 Selection · Samsung ISWDP Fellow · CVRDE Intern (Defense EMI/EMC)
+DVCon Round 3 Selection · Samsung ISWDP Fellow · CVRDE Intern (Defense EMI/EMC)
 
 ## Certifications
 VSD FPGA Design Program · QNX RTOS (Pi Square Technologies)
