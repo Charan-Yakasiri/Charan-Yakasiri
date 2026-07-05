@@ -3,7 +3,7 @@
 I take hardware from RTL to board. Not simulation. Actual silicon.
 
 **RTL & Design**  
-`Verilog` `SystemVerilog` `FSM` `CDC` `Timing Closure`
+`Verilog` `SystemVerilog` `FSM` `CDC` `Timing Closure` `Hardware-Software Co-Integration`
 
 **Tools**  
 `Vivado` `ModelSim` `Yosys` `nextpnr` `OpenSTA` `QNX Momentics`
